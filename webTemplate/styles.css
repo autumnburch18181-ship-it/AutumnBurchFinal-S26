@@ -1,0 +1,20 @@
+body{padding: 5em;}
+{background-color: rgb(145,109,148);}
+
+h1,h2{text-align: center;
+.merriweather-<uniquifier> {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;}}
+
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
